@@ -1,0 +1,169 @@
+  @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400&display=swap');
+
+body{
+  font-family: Ubuntu, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #110309;
+  line-height: 1.58;
+  letter-spacing: -.003em;
+  font-size: 20px;
+  padding: 70px;
+  background-color: #FFF1D6;
+  overflow-x: hidden
+}
+
+h2{
+    font-family: carlmarx, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 42px;
+    color: #870058;
+}
+
+h3, h4, h5, h6{
+    font-family: reross-quadratic, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 24px;
+    color: #97B46A;
+
+}
+
+nav{
+  background-color: #A4303F;
+}
+  
+nav ul li{
+  display:inline-block;
+  background-color: #A4303F;
+  }
+
+nav a{
+  display:block; 
+  font-family: "alfarn-2", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  color: #FFF1D6;
+  font-size: 18px;
+  line-height: 60px;
+  text-decoration:none;
+  padding-right: 30px;
+  padding-left: 30px;
+  background-color: #A4303F;
+  letter-spacing: +.07em;
+}
+
+nav a:hover{ 
+  background-color: #110309; 
+}
+
+header{
+  display: block;
+  max-width: 100%;
+  background-color: #B35342;
+  text-align: center;
+}
+
+h1{
+  font-family: "alfarn-2", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  color: #F2D0A4;
+  font-size: 52px;
+}
+h1 a{
+  text-decoration:none;
+  color: #F2D0A4;
+}
+
+a{
+  text-decoration:none;
+  color: #97B46A;
+}
+
+#pagewrapper{
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    grid-gap: 20px;
+    margin-left: 20px;
+    grid-template-areas: 
+    'photo text';
+}
+
+img{
+  max-height: 500px;
+  width:100%;
+}
+
+table, th, td{
+  border: 3px solid #A4303F;
+  text-align: center;
+  color: #110309;
+}
+
+input[type="submit"], [type="reset"]{
+  background: #870058;
+  color: #FFF1D6;
+  border-style: outset;
+  border-color: #870058;
+  height: 40px;
+  width: 75px;
+  text-shadow: none;
+  font-size: 18px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#image-map {
+    position: relative;
+    margin: 150px auto 20px auto;
+}
+
+#footer{
+    display: grid;
+    background-color: #A4303F;
+    color: #ffff;
+    max-width: 100%;
+    padding-bottom: 20px;
+    grid-template-columns: 2fr 2fr;
+    grid-template-areas: 
+    'left right';
+}
+
+footer ul li{
+  list-style: none;
+}
+
+footer h1{
+  color: #FFF1D6;
+}
+
+#left, #right{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#image-map{
+  float: left;
+  margin-right: 1em;
+  height: 500px;
+  width: 600px;
+}
+
+/*
+font-family: "alfarn-2", sans-serif;
+font-weight: 700;
+font-style: normal;
+
+font-family: reross-quadratic, sans-serif;
+font-weight: 400;
+font-style: normal;
+
+font-family: carlmarx, sans-serif;
+font-weight: 700;
+font-style: normal;
+
+font-family: carlmarx, sans-serif;
+font-weight: 400;
+font-style: normal;*/
