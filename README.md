@@ -2,4 +2,4 @@
 
 Assignment: 
 
-[Visit here](https://giaviolini.github.io/RealEstate/)
+[Visit here](https://giaviolini.github.io/Image-Maps/)
