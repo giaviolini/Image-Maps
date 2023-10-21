@@ -63,6 +63,7 @@ header{
   max-width: 100%;
   background-color: #B35342;
   text-align: center;
+  top: 0;
 }
 
 h1{
@@ -122,6 +123,7 @@ input[type="submit"], [type="reset"]{
 
 #footer{
     display: grid;
+    bottom: 0;
     background-color: #A4303F;
     color: #ffff;
     max-width: 100%;
