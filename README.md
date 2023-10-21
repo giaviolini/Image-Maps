@@ -10,7 +10,7 @@ For this nav bar I used a background color to have the hover appear in like a bo
 ex. ```nav a:hover{background-color: #110309;}```
 
 ### Header and Footer
-We also continued our practice of headers and footers. This assignment gave me a bit of trouble getting the header and footer span across the whole page, but I finally was able to get it by adding....
+The heading and footer were giving a lot of trouble. I was not able to have the span the full width of the page and also not cover all the text but using ```position: absolute```. This was a solution I had found on the internet, but I could not figure out why it was not working on my website. So, for the time being, I left it as it was. 
 
 ### Inputs
 For this assignmnet I also used inputs to help make the website look complete. Imputs require two attributes, a ```<input>``` tag and a ```<label>```tag. The ```<input>``` tag is where you will specify what type of input you are using.   \
