@@ -1,6 +1,6 @@
 # Image Maps and Navigation Bar Part 2
 ## What I Learned/Practiced
-Assignment 0 of 00
+Assignment 5 of 10
 
 This website combines parts of previous assignments and takes them a few steps further. I had to create a realtor website using an image map, a header, a footer, and a navigation bar. 
 
